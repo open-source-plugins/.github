@@ -44,11 +44,13 @@ We are a small organization which aims to provide the Roblox community with a va
   Keep up to date
 </h1>
 
-<footer align="center">
-  <a href="https://discord.gg/45W2GkCV6t">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Discord-Join!-blue">
-  </a>
-  <a href="https://www.roblox.com/groups/33802914/Thorium-Studio#!/about">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Roblox_Group-Join!-orange">
-  </a>
-</footer>
+<div align="center">
+  <footer align="center">
+    <a href="https://discord.gg/45W2GkCV6t">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Discord-Join!-blue">
+    </a>
+    <a href="https://www.roblox.com/groups/33802914/Thorium-Studio#!/about">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Roblox_Group-Join!-orange">
+    </a>
+  </footer>
+</div>
