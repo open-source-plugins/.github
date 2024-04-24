@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/logo.png" alt="Roblox Studio Logo" width="140" />
+  <img src="./assets/logo.png" alt="Roblox Studio Logo" width="140" />
 </div>
 
 <h1 align="center" style="margin-bottom:0;">
